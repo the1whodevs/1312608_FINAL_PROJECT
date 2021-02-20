@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 635b4a91f99491649bd17ea005bceb12, type: 3}
+  m_Name: Fighter
+  m_EditorClassIdentifier: 
+  className: Fighter
+  abilities:
+  - {fileID: 11400000, guid: beaf9cf06e046b24db11b98629d4b1bd, type: 2}
+  - {fileID: 11400000, guid: 50732194e3385fe43babed540047ab37, type: 2}
+  healthResource: {fileID: 11400000, guid: cffd37e2ff92297448cbc8a641fffeb1, type: 2}
+  spenderResource: {fileID: 11400000, guid: 10b0a6040bd2a4e4bb1e8e41f52f744c, type: 2}

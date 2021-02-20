@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1754bff0a04d724ab3920147ad6dc37, type: 3}
+  m_Name: LightAttack_Melee
+  m_EditorClassIdentifier: 
+  resourceCostData: {fileID: 11400000, guid: 5e87bbd4400b70b448e3daf788f1f636, type: 2}
+  DamageRange: {x: 1, y: 5}
+  cooldown: 1
+  castType: 0
+  castTime: 1.5
